@@ -1,0 +1,104 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.col {
+  max-width: 450px !important;
+}
+.row {
+  gap: 15px !important;
+  max-width: 1150px !important;
+  justify-content: center !important;
+  margin-left: 100px;
+  padding-left: 20px;
+}
+.text-box h4 {
+  font-size: 14px !important;
+}
+.text-box p {
+  font-weight: 200 !important;
+  font-size: 13px;
+}
+.features {
+  display: flex;
+  margin-top: 40px;
+  margin-left: 0px;
+}
+.feature h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  letter-spacing: 1.5px;
+  font-weight: 300;
+}
+.feature-icon {
+  margin-left: 0px;
+}
+.feature-icon img {
+  width: 90px !important;
+  margin-top: -30px;
+}
+.text-2 {
+  margin-top: 50px;
+}
+.trending {
+  margin-top: 40px;
+}
+.trending h4 {
+  font-size: 25px;
+  letter-spacing: 1.9px;
+  font-weight: 300;
+}
+.trending ul {
+  padding: 20px;
+}
+.trending ul li {
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 200;
+  letter-spacing: 1.5px;
+  line-height: 0.5;
+}
+.tre {
+  margin-top: 0px !important;
+}
+.tre-1 {
+  margin-top: 20px;
+}
+/* -----------london page-------------- */
+.fashion {
+  max-width: 1100px;
+  margin-left: 170px;
+}
+.fashion img {
+  width: 960px;
+  /* height: 700px; */
+}
+.fash {
+  margin-bottom: 30px;
+}
+.col-1 {
+  max-width: 1500px !important;
+  margin-bottom: 30px;
+}
+.col-2 {
+  max-width: 500px;
+}
+.image p{
+  text-align: center;
+  letter-spacing: 0.5px;
+  line-height: 1.5;
+}
+.image .text-2{
+  margin-top: 50px;
+  font-size: 18px;
+}
+.image .text-3{
+  margin-top: 20px;
+  font-size: 13px;
+}
+.img{
+  width: 800px !important;
+}
+.essentials{
+  margin-top: 30px;
+}
+

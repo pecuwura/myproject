@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-3{
+    display: flex;
+    width: 1250px;
+}
+.container-4{
+    /* width: 450px; */
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.container-4 img{
+    width: 500px;
+    height: 600px;
+}
+.pellen{
+  width: 600px;
+  margin-left: 50px;
+  margin-top: 85px;
+}
+.pellen h3{
+  font-size: 35px;
+  margin-bottom: 20px;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+  line-height: 1.4;
+}
+.pellen p{
+  letter-spacing: 1.5px;
+  line-height: 1.6;
+}
+.pellen-1{
+    margin-bottom: 20px;
+}
+.pel{
+  margin-left: 120px;
+  margin-right: 10px !important;
+}
+.tre{
+  margin-top: 20px;
+}
